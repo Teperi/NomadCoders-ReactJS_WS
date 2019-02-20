@@ -48,3 +48,8 @@
 - 부모 Component 에서 자식 Component 로 데이터를 전달할 때 사용
 - props 가 Object 형태로 전달됨
 - Main Component 가 모든 Data 를 가지고 있고, 자식에게 Props 로 전달해서 사용 가능함
+
+## JS Map
+
+- ForEach 와 비슷한 행동을 하는 함수
+- return 값을 밖으로 보낼 수 있음 (foreach 는 불가능함)
