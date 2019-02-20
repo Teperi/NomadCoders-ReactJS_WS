@@ -40,4 +40,11 @@
 - reactDOM: React 를 웹사이트로 출력(render) 해주는 기능
 - reactNative: React 를 모바일 앱으로 출력해주는 기능
 
-Component needs render, return, JSX
+- Component needs render, return, JSX
+- JSX 의 경우 꼭 중괄호를 써야지 데이터에 접근 가능함
+
+## Props
+
+- 부모 Component 에서 자식 Component 로 데이터를 전달할 때 사용
+- props 가 Object 형태로 전달됨
+- Main Component 가 모든 Data 를 가지고 있고, 자식에게 Props 로 전달해서 사용 가능함
