@@ -49,7 +49,25 @@
 - props 가 Object 형태로 전달됨
 - Main Component 가 모든 Data 를 가지고 있고, 자식에게 Props 로 전달해서 사용 가능함
 
+---
+
 ## JS Map
 
 - ForEach 와 비슷한 행동을 하는 함수
 - return 값을 밖으로 보낼 수 있음 (foreach 는 불가능함)
+- http://blog.kazikai.net/?p=16
+
+---
+
+## Key Warning
+
+![Warning Messgae](../Images/step2-4_warning_message.jpg)
+
+- 위 맵 함수를 쓸때 주의해야 할 점
+- ReactJS 에서는 List 를 보낼 때 Key 값이 있어야 한다고 권고함
+- 따라서 Props 를 보낼때 Key 값을 같이 보내면 됨
+
+## Prop-types
+
+- https://medium.com/@sangboaklee/react-proptypes-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-7a0615da236
+- 타입 체크 + 문서화와 가독성 개선
