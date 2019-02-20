@@ -71,3 +71,10 @@
 
 - https://medium.com/@sangboaklee/react-proptypes-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-7a0615da236
 - 타입 체크 + 문서화와 가독성 개선
+
+## Component Lifecycle
+
+- 컴포넌트는 여러 기능들을 정해진 순서대로 실행함
+  ![Component Lifecycle](https://www.codevoila.com/uploads/images/201607/reactjs_component_lifecycle_functions.png)
+
+- 추후 변경 예정인 사항이 있음
