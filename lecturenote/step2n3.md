@@ -1,4 +1,4 @@
-# #2
+# #2 & #3
 
 2019.02.20
 
@@ -55,7 +55,7 @@
 
 - ForEach 와 비슷한 행동을 하는 함수
 - return 값을 밖으로 보낼 수 있음 (foreach 는 불가능함)
-- http://blog.kazikai.net/?p=16
+- [http://blog.kazikai.net/?p=16](http://blog.kazikai.net/?p=16)
 
 ---
 
@@ -69,7 +69,7 @@
 
 ## Prop-types
 
-- https://medium.com/@sangboaklee/react-proptypes-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-7a0615da236
+- [https://medium.com/@sangboaklee/react-proptypes-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-7a0615da236](https://medium.com/@sangboaklee/react-proptypes-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-7a0615da236)
 - 타입 체크 + 문서화와 가독성 개선
 
 ## Component Lifecycle
