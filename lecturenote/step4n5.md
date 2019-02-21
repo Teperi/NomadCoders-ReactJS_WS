@@ -1,4 +1,4 @@
-# #4
+# #4 & #5
 
 2019.02.20
 
@@ -23,3 +23,10 @@
   - 내가 만든 함수임을 알아볼 수 있도록
 
 - Arrow Function
+
+---
+
+- stateless functional component : dumb component
+- 위와 같은 component 는 class 로 만들지 말고 function 으로 만들어야 함
+  - 이렇게 됬을 경우 생명주기 사용 불가능
+  - state 를 받기만 하는 경우에 만드는 것으로 생각됨
