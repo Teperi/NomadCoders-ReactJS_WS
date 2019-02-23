@@ -1,6 +1,6 @@
 # #4 & #5
 
-2019.02.20
+2019.02.21
 
 ## state
 
@@ -12,6 +12,9 @@
 
   ```js
   ...this.state
+  // ... : Spread Oprator
+  // 한번에 모든 값들을 집어넣게 함
+  // https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_syntax
   ```
 
 - Loading State
