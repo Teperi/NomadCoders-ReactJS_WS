@@ -1,6 +1,6 @@
 # #6
 
-2019.02.23
+2019.02.23~24
 
 ## Ajax
 
@@ -13,6 +13,7 @@
 ## Promise
 
 - *A promise is an object that may produce a single value some time in the future*
+- 비동기 조작의 최종 완료나 실패를 표현해주는 객체
 - 특징
   - **Asynchronous Programming**
     - 비동기 프로그래밍: 각각의 일이 각각의 속도에 따라 다르게 진행
@@ -21,6 +22,11 @@
     - Pending(대기) : 비동기 처리 로직이 아직 완료되지 않은 상태
     - Fulfilled(이행) : 비동기 처리가 완료되어 프로미스가 결과 값을 반환해준 상태
     - Rejected(실패) : 비동기 처리가 실패하거나 오류가 발생한 상태
+
+## Async/Await
+
+- Callback hell : fetch().then() 에서 .then 이 계속 길어지면서 길을 잃게 됨
+- callback hell 을 빠져나올 수 있는 방법
 
 ## 출처
 
